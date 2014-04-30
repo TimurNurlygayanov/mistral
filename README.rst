@@ -1,11 +1,9 @@
-Mistral
-=======
+# Mistral
 
 Task Orchestration and Scheduling service for OpenStack cloud
 
 
-Running in development mode
----------------------------
+## Running in development mode
 
 ### Installation
 First of all, in a shell run:
