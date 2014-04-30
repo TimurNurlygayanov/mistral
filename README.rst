@@ -7,7 +7,7 @@ rtgdfgdfgdf
 -----------
 
 Installation
----
+-----
 
 First of all, in a shell run:
 
