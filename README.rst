@@ -1,14 +1,15 @@
-# Mistral
+Mistral
+=======
 
 Task Orchestration and Scheduling service for OpenStack cloud
 
 
-## Running in development mode
+Installation
+------------
 
-### Installation
 First of all, in a shell run:
 
-*tox*
+ tox
 
 This will install necessary virtual environments and run all the project tests. Installing virtual environments may take significant time (~10-15 mins).
 
